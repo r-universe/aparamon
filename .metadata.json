@@ -2,9 +2,5 @@
   {
     "package": "cmrutils",
     "oncran": true
-  },
-  {
-    "package": "mar1s",
-    "oncran": true
   }
 ]

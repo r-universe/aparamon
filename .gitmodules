@@ -8,3 +8,8 @@
 	url = https://github.com/aparamon/cmrutils
 	shallow = true
 	registered = true
+[submodule "mar1s"]
+	path = mar1s
+	url = https://github.com/aparamon/mar1s
+	shallow = true
+	registered = true

@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cmrutils"]
 	path = cmrutils
 	url = https://github.com/aparamon/cmrutils
-	shallow = true
-	registered = true
 [submodule "mar1s"]
 	path = mar1s
 	url = https://github.com/aparamon/mar1s
-	shallow = true
-	registered = true
